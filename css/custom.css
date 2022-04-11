@@ -154,3 +154,6 @@ div.modal-body {
 .DevCafe {
 	color: coral;
 }
+img.round {
+	border-radius: 50%
+}
